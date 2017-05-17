@@ -11,7 +11,7 @@ Java Runtime Environment above the [alpine](https://hub.docker.com/_/alpine/) li
 
 ### Supported Java Versions
 
-- openjdk8-jre
+- [openjdk8-jre](http://openjdk.java.net/) 
 
 Change the JAVA_VERSION environment variable in the [Dockerfile](Dockerfile) based on the java version
 
