@@ -5,8 +5,8 @@ machine:
 dependencies:
   override:
     - docker info
-    - docker build  rahulkrishnanfs/docker-jre:latest
+    - docker build  rahulkrishnanfs/docker-jre
 
 test:
   override:
-    - docker run  rahulkrishnanfs/docker-jre:latest ; sleep 10
+    - docker run  rahulkrishnanfs/docker-jre ; sleep 10
