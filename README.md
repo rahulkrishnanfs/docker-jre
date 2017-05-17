@@ -27,7 +27,7 @@ Change the JAVA_VERSION environment variable in the [Dockerfile](Dockerfile) bas
 
 ### Usage 
 ```
-docker run -it rahulkrishnanfs/docker-jre:1.0 sh
+$ docker run -it rahulkrishnanfs/docker-jre:1.0 sh
 
 ```
 ### Environment Variable in the Container
