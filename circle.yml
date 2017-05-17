@@ -9,4 +9,4 @@ dependencies:
 
 test:
   override:
-    - docker run  -t rahulkrishnanfs/docker-jre ; sleep 10
+    - docker run  -t rahulkrishnanfs/docker-jre ; sleep 5
