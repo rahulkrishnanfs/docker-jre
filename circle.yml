@@ -5,8 +5,8 @@ machine:
 dependencies:
   override:
     - docker info
-    - docker build  rahulkrishnanfs/docker-jre
+    - docker build  circleci/docker-jre
 
 test:
   override:
-    - docker run  rahulkrishnanfs/docker-jre ; sleep 10
+    - docker run  circleci/docker-jre ; sleep 10
