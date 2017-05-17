@@ -33,5 +33,7 @@ docker run -it rahulkrishnanfs/docker-jre:1.0 sh
    [JAVA_HOME=/usr/lib/jvm/default-jvm/jre](Dockerfile)
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[1]: http://www.twitter.com/carlsednaoui
-Follow me on [![alt text][1.1]][1]
+[1]: http://www.twitter.com/rahulkrishnanra
+
+
+### Follow me on [![alt text][1.1]][1]
