@@ -1,7 +1,8 @@
 # docker-jre
 [![Docker Repository on Quay](https://quay.io/repository/rahulkrishnanfs/docker-jre/status "Docker Repository on Quay")](https://quay.io/repository/rahulkrishnanfs/docker-jre)
 
-[![Circleci]https://circleci.com/gh/:rahulkrishnanfs/:repo.png?circle-token=:3b8fda1ae6c2ded768d69bd08afd234dba9bba54](https://circleci.com/gh/:rahulkrishnanfs/:repo.svg?style=shield&circle-token=:3b8fda1ae6c2ded768d69bd08afd234dba9bba54)
+ [![Circle CI](https://circleci.com/gh/rahulkrishnanfs/docker-jre.png?style=badge)](https://circleci.com/gh/rahulkrishnanfs/docker-jre)
+
 
 This repository contains Java Dockerfile 
 
