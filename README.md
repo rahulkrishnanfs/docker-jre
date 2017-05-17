@@ -10,7 +10,7 @@ Java Runtime Environment above the alpine linux and It can be used as a Base Ima
 
 - openjdk8-jre
 
-Change the JAVA_VERSION environment variable in the Dockerfile based on the java version
+Change the JAVA_VERSION environment variable in the [Dockerfile](Dockerfile) based on the java version
 
 ### Docker Tags
 
