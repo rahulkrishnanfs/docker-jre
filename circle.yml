@@ -1,0 +1,12 @@
+machine:
+  services:
+    - docker
+
+dependencies:
+  override:
+    - docker info
+    - docker build --rm=false -t rahulkrishnanfs/docker-jre:latest
+
+test:
+  override:
+    - docker run  rahulkrishnanfs/docker-jre:latest ; sleep 10
