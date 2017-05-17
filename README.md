@@ -32,7 +32,7 @@ $ docker run -it rahulkrishnanfs/docker-jre:1.0 sh
 ```
 ### Environment Variable in the Container
 
-      [JAVA_HOME=/usr/lib/jvm/default-jvm/jre](Dockerfile)
+   [JAVA_HOME=/usr/lib/jvm/default-jvm/jre](Dockerfile)
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [1]: http://www.twitter.com/rahulkrishnanra
