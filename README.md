@@ -3,7 +3,7 @@
 
 This repository contains Java Dockerfile 
 
-Java Runtime Environment above the alpine linux
+Java Runtime Environment above the alpine linux and It can be used as a Base Image for any java application
 
 
 ### Supported Java Versions
