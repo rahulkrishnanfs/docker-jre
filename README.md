@@ -1,6 +1,8 @@
 # docker-jre
 [![Docker Repository on Quay](https://quay.io/repository/rahulkrishnanfs/docker-jre/status "Docker Repository on Quay")](https://quay.io/repository/rahulkrishnanfs/docker-jre)
 
+[![Circleci]https://circleci.com/gh/:owner/:repo.png?circle-token=:3b8fda1ae6c2ded768d69bd08afd234dba9bba54](https://circleci.com/gh/:owner/:repo.svg?style=shield&circle-token=:3b8fda1ae6c2ded768d69bd08afd234dba9bba54)
+
 This repository contains Java Dockerfile 
 
 Java Runtime Environment above the alpine linux and It can be used as a Base Image for any java application
